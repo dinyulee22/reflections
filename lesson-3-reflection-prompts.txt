@@ -23,7 +23,9 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+-Useful for comparing what has changed since last time you synced up with github
+-Can be used to help automatically merge files by comparing the previous state with
+local changes and online changes
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
