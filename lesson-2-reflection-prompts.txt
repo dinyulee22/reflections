@@ -40,3 +40,6 @@ manually?
 -Automatic merging is easier, but could result in unexpected results when merging changes
 for the same area of code
 -Manual allows you to resolve conflicts, but requires more tinkering.
+-Both could result in errors, but in different ways. Automatic is probably better if it's
+just one person working on it. Manual is probably needed sometimes if multiple people are
+working on one project/file.
