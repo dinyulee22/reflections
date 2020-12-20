@@ -30,7 +30,10 @@ local changes and online changes
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+-Could have one person manage who's working on what file, having a shared drive or sending
+files back and forth.
+-Would be easier since people wouldn't have to learn git, but would be a lot more likely to
+make mistakes.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
