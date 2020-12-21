@@ -38,4 +38,7 @@ make mistakes.
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+-When I'm working on something that will become a pull request
+-When I'm working a new feature that I don't want to affect the production master branch
+-More overhead with merging in branches, but more branches allow more people to work on the
+same project at once.
